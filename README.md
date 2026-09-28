@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sakshi Agarwal
 
 🎓 B.Tech Information Technology student at SKIT, Jaipur  
-💡 Interested in Artificial Intelligence, Machine Learning, and Web Development  
+💡 Interested in Artificial Intelligence, Machine Learning, and Web Development 
 🚀 Currently learning DSA and building real-world projects  
 
 ---
